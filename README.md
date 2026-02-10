@@ -2,7 +2,7 @@
 
 - [References](./REFERENCES.md)
 
-> uv is ...
+> uv is an extremely fast Python package and project manager, written in Rust.
 
 ## 100 - Introduction
 
