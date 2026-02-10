@@ -2,7 +2,7 @@
 
 ## 100 - Using uv in a GitHub Actions workflow
 
-Below s an example of using **uv** in a GitHub Actions workflow:
+Below is an example of using **uv** in a GitHub Actions workflow:
 
 ``` yaml
 name: Do Something With Python
