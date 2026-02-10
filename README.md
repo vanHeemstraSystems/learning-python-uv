@@ -1,2 +1,4 @@
-# learning-python-uv
-Learning Python uv
+learning-python-uv
+# Learning Python uv
+
+- [References](./REFERENCES.md)
