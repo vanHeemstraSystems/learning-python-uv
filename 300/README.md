@@ -43,3 +43,5 @@ tests
 ```
 
 This GitHub Actions workflow is triggered when a Commit is attempted to be pushed.
+
+Should you want to manually trigger the GitHub Actions workflow, follow [Manually running a workflow](https://docs.github.com/en/actions/how-tos/manage-workflow-runs/manually-run-a-workflow).
