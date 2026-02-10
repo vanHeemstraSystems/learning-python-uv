@@ -36,10 +36,10 @@ jobs:
 In the above example, one would have the following supporting documents also:
 
 ```
-tests
-  |- unit
-       |- __init__.py
-       |- test_do_something.py
+tests/
+  └── unit
+       ├── __init__.py
+       └── test_do_something.py
 ```
 
 This GitHub Actions workflow is triggered when a Commit is attempted to be pushed.
